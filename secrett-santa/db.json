@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "name": "Руслан",
+      "isMale": true,
+      "code": 644658332,
+      "coupleId": 0,
+      "id": 0
+    },
+    {
+      "name": "Катя",
+      "isMale": false,
+      "code": 852556555,
+      "coupleId": 0,
+      "id": 1
+    },
+    {
+      "name": "Денис",
+      "isMale": true,
+      "code": 476775808,
+      "coupleId": 1,
+      "id": 2
+    },
+    {
+      "name": "Надя",
+      "isMale": false,
+      "code": 752242446,
+      "coupleId": 1,
+      "id": 3
+    },
+    {
+      "name": "Роман",
+      "isMale": true,
+      "code": 345808233,
+      "coupleId": 2,
+      "id": 4
+    },
+    {
+      "name": "Тина",
+      "isMale": false,
+      "wishList": [],
+      "code": 335842235,
+      "coupleId": 2,
+      "id": 5
+    }
+  ],
+  "wishList": [
+    {
+      "id": 0,
+      "name": "Руслан",
+      "isMale": true,
+      "wishes": [
+        "Пазлы",
+        "Конструктор",
+        "Наборы для экспериментов"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Катя",
+      "isMale": false,
+      "wishes": []
+    },
+    {
+      "id": 2,
+      "name": "Денис",
+      "isMale": true,
+      "wishes": []
+    },
+    {
+      "id": 3,
+      "name": "Надя",
+      "isMale": false,
+      "wishes": []
+    },
+    {
+      "id": 4,
+      "name": "Роман",
+      "isMale": true,
+      "wishes": []
+    },
+    {
+      "id": 5,
+      "name": "Тина",
+      "isMale": false,
+      "wishes": []
+    }
+  ]
+}
